@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Garage example</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Boat.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Administrator/Desktop/GarageProj/Boat.java</locationURI>
+		</link>
+		<link>
+			<name>Car.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Administrator/Desktop/GarageProj/Car.java</locationURI>
+		</link>
+		<link>
+			<name>Garage.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Administrator/Desktop/GarageProj/Garage.java</locationURI>
+		</link>
+		<link>
+			<name>RunnerClass.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Administrator/Desktop/GarageProj/RunnerClass.java</locationURI>
+		</link>
+		<link>
+			<name>Tank.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Administrator/Desktop/GarageProj/Tank.java</locationURI>
+		</link>
+		<link>
+			<name>Vehicle.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Administrator/Desktop/GarageProj/Vehicle.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
