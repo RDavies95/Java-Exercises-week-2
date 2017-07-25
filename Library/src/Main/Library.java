@@ -15,10 +15,10 @@ import java.util.regex.Pattern;
 public class Library {
 
 	// ArrayLists for Person and Item
-	ArrayList<Person> pAL = new ArrayList<Person>();
-	ArrayList<Item> iAL = new ArrayList<Item>();
+ public	ArrayList<Person> pAL = new ArrayList<Person>();
+ public	ArrayList<Item> iAL = new ArrayList<Item>();
 
-	ArrayList<String> itemsOut = new ArrayList();
+ public ArrayList<String> itemsOut = new ArrayList();
 
 	// Register Person
 	public void registerPerson(Person p) {
@@ -68,7 +68,7 @@ public class Library {
 			Item j = iAL.get(i);
 
 			if (id == j.iId) {
-				pAL.remove(i);
+				iAL.remove(i);
 			}
 		}
 		System.out.println("Item succesffuly removed");

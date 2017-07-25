@@ -8,8 +8,8 @@ public class Main {
 	Methods m = new Methods();
 	
 	m.readFromFile();
-		
-		
+	m.sortString();
+	m.printSortedString();
 		
 		
 
