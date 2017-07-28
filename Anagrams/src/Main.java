@@ -9,9 +9,21 @@ public class Main {
 	
 	m.readFromFile();
 	m.sortString();
-	m.printSortedString();
-		
-		
+	m.organiseIntoHashmap();
+
+
+
+
+	//m.printSortedString();
+	//System.out.println("\n");
+	//System.out.println("SORTED STRINGS");
+	//System.out.println("\n");
+	//m.printSortedString();
+	//m.organiseSortedStrings();
+
+	//System.out.println("PRINT OUT HASH MAP");
+	//System.out.println("\n");
+	//m.printHashMap();
 
 	}
 
